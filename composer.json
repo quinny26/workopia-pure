@@ -1,0 +1,16 @@
+{
+    "name": "quinny26/workopia-pure",
+    "description": "Job listing application",
+    "authors": [
+        {
+            "name": "Quinny Trang",
+            "email": "20026235@tafe.wa.edu.au"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
